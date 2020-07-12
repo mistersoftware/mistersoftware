@@ -9,7 +9,7 @@ Muchas personas quieren publicar sus ideas en Platzi. Pero no saben como darle e
 ---
 
 
-***" En esta publicación encontrarás trucos y herramientas que te ayudaran a darle estilo a tus ideas con Markdown, porque las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir, y aqúi no queremos que eso suceda. "***
+***" En esta publicación encontrarás trucos y herramientas que te ayudaran a darle estilo a tus ideas con Markdown, porque las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir, y aquí no queremos que eso suceda. "***
 
 
 ==»==
