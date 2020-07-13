@@ -20,7 +20,7 @@ I´ve coursed Physics, Mechatronichs Engineer and Math between 1996 and 2013, ge
 
 
 
-![Imgur](https://i.imgur.com/aZ1uHic.png)
+![skills](https://i.imgur.com/aZ1uHic.png)
 
 
 
@@ -33,5 +33,5 @@ I´ll pursue a deep knowledge and understanting of the different variables that 
 
 ## Take a look 
 
-![Imgur](https://i.imgur.com/XRTVhqj.gif)
+![animation](https://i.imgur.com/XRTVhqj.gif)
 
