@@ -1,5 +1,5 @@
 # LUIS MOJICA
-## AI Research Engineer
+## 👨‍🔬 AI Research Engineer
 
 
 > ***" As a AI research engineer I´ll help to achieve the vision of continual unbounded innovation, discovery and invention. I will build AI systems that can perform previusly imposible tasks or achieve unprecedented levels of perfomance, designing, implementing and improve a massive scale distributed machine learning system. "***
@@ -31,5 +31,5 @@ Being part of your team, I´ll to get involved in several areas of studing inclu
 I´ll pursue a deep knowledge and understanting of the different variables that affect and make an impact in the bussiness.
 
 
-## Take a look to some of my projects
+## 👀 Take a look to my open source projects 
 
