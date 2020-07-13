@@ -35,3 +35,5 @@ I´ll pursue a deep knowledge and understanting of the different variables that 
 
 ![animation](https://i.imgur.com/XRTVhqj.gif)
 
+In the last twenty years I´ve been working on private consulting in technologies for well know brands in the region, ie. Decameron Hotels, Playablanca Beach Resort &  the Hotel El Panamá by Faranda Grand. I have an outgoing personality and a curious mind an
+
