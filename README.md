@@ -19,9 +19,7 @@ In the last twenty years I´ve been working on private consulting in technologie
 I´ve coursed Physics, Mechatronichs Engineer and Math between 1996 and 2013, getting in contact with future professionals from 3 different generations. Thanks to this I´ve developed some pedagogical skills to comunicate effectivelly with young people. Currently I´m using a cutting edge technology learning tool called Platzi in order to improve and mastering my knowledge in several areas like
 
 
-
-![skills](https://i.imgur.com/aZ1uHic.png)
-
+![Imgur](https://i.imgur.com/1DoHylK.png)
 
 
 ## 🧗‍♂️ What I will be pursuing being part of your team:
