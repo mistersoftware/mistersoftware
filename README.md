@@ -23,7 +23,7 @@ I´ve coursed Physics, Mechatronichs Engineer and Math between 1996 and 2013, ge
 ---
 
 
-    ![Imgur](https://i.imgur.com/AbGbzwM.png)
+[Imgur](https://i.imgur.com/AbGbzwM.png)
 
 ==»==
 ---
