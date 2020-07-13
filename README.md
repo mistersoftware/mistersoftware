@@ -33,5 +33,5 @@ I´ll pursue a deep knowledge and understanting of the different variables that 
 
 ## Take a look to some of my open source projects
 
-![Imgur](https://i.imgur.com/XRTVhqj.gifv)
+![Imgur](https://i.imgur.com/XRTVhqj.gif)
 
