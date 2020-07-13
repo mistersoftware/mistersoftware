@@ -29,5 +29,5 @@ Being part of your team, I´ll to get involved in several areas of studing inclu
 I´ll pursue a deep knowledge and understanting of the different variables that affect and make an impact in the bussiness.
 
 
-## 👀 Take a look to my open source projects 
+## 👇 Take a look to my open source projects 
 
