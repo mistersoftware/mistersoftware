@@ -31,6 +31,5 @@ Being part of your team, I´ll to get involved in several areas of studing inclu
 I´ll pursue a deep knowledge and understanting of the different variables that affect and make an impact in the bussiness.
 
 
-## Take a look 
+## Take a look to some of my projects
 
-![skills2](https://i.imgur.com/aZ1uHic.png)
