@@ -19,7 +19,7 @@ In the last twenty years I have been working in private technology consulting fo
 I studied Physics, Mechatronic Engineering and Mathematics between 1996 and 2013, sharing a classroom with future professionals from 3 different generations. Thanks to this, I have developed some pedagogical skills to communicate effectively with people older and younger than me. I am currently using a state-of-the-art learning tool called Platzi to improve and master my knowledge in various areas such as
 
 
-![Imgur](https://i.imgur.com/1DoHylK.png)
+![Imgur](https://i.imgur.com/3jPh6DS.png)
 
 
 ## 🧗‍♂️ What I will be pursuing being part of your team:
