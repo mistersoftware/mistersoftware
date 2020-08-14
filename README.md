@@ -9,7 +9,7 @@
 
 ![Imgur](https://i.imgur.com/3jPh6DS.png)
 
-## 🔯 I love to explore some concepts about discrete maths
+## 🔯 [wip] A project about discrete maths
 
 [![resize-aritmetica](https://user-images.githubusercontent.com/12854504/87575567-b8bc5b00-c695-11ea-990c-c378bc548a0b.gif)](https://github.com/mistersoftware/Aritmetica_Modular)
 
