@@ -14,7 +14,7 @@
 [![resize-aritmetica](https://user-images.githubusercontent.com/12854504/87575567-b8bc5b00-c695-11ea-990c-c378bc548a0b.gif)](https://codepen.io/oiio/full/QWwMRPM)
 
 
-## 🤖 [wip] A cognitive chatbot aims to replace a whole contact center 
+## 🤖 [wip] A cognitive chatbot for health 
 
 [![Imgur](https://i.imgur.com/bUW8AYl.gif)](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=b01b7ea7-25f0-4edc-87b8-8d8869280b9a&serviceInstanceID=c851319f-2f12-41f0-822d-b86311301578)
 
