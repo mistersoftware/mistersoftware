@@ -11,7 +11,7 @@
 
 ## 🔯 [wip] A project about discrete maths
 
-[![resize-aritmetica](https://user-images.githubusercontent.com/12854504/87575567-b8bc5b00-c695-11ea-990c-c378bc548a0b.gif)](https://github.com/mistersoftware/Aritmetica_Modular)
+[![resize-aritmetica](https://user-images.githubusercontent.com/12854504/87575567-b8bc5b00-c695-11ea-990c-c378bc548a0b.gif)](https://codepen.io/oiio/full/QWwMRPM)
 
 
 ## 🤖 [wip] A cognitive chatbot aims to replace a whole contact center 
