@@ -9,8 +9,10 @@
 
 ![Imgur](https://i.imgur.com/3jPh6DS.png)
 
-## 🤖 Do you know something about GTP3? 
 
-[![](https://user-images.githubusercontent.com/12854504/88528064-be823c80-cfc3-11ea-8e5f-efef5b2c488e.gif)](https://platzi.com/comunidad/esto-me-trasnocha-la-consola-semantica/)
+## 🤖 Do you want to test a cognitive chatbot? 
+
+[![Imgur](https://i.imgur.com/bUW8AYl.gif)](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=b01b7ea7-25f0-4edc-87b8-8d8869280b9a&serviceInstanceID=c851319f-2f12-41f0-822d-b86311301578)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistersoftware&show_icons=true)  
