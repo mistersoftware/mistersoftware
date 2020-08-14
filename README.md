@@ -1,8 +1,3 @@
-# LUISCA
-
-![GitHub followers](https://img.shields.io/github/followers/mistersoftware?label=Follow&style=social) ![GitHub watchers](https://img.shields.io/github/watchers/mistersoftware/mistersoftware?style=social)
-
-
 ## 🧠 I'm building artificial intelligence systems that aim to perform previously impossible tasks or reach unprecedented levels of performance, designing, implementing and improving a large-scale distributed machine learning system.
 
 ## 🚀 Some languages and tools of my interest
