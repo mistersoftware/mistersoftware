@@ -14,7 +14,9 @@
 
 ## 🤖 [WIP] Detroit Become Human - NLU
 
-https://github.com/mistersoftware/become_human_nlu
+A little personal project to get fun. No copyright infringment desired. The images belongs to ther ownerships. Game Detroit Become Human. This project try to implemente capabiltys of language undersntanding in the game.
+
+[![Screenshot_2020-09-05 Watson Assistant(1)](https://user-images.githubusercontent.com/12854504/92316842-282c3800-efbf-11ea-8e48-a597f64a4ee8.png)](https://github.com/mistersoftware/become_human_nlu)
 
 ## 🤖 IBM Watson cognitive assistant for health [Passing]
 
