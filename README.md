@@ -6,17 +6,6 @@
 
 ![Imgur](https://i.imgur.com/3jPh6DS.png)
 
-# Projects
-
-## 🔯 [WIP] Discrete math, mandelbrot set and time tables
-
-[![resize-aritmetica](https://user-images.githubusercontent.com/12854504/87575567-b8bc5b00-c695-11ea-990c-c378bc548a0b.gif)](https://codepen.io/oiio/full/QWwMRPM)
-
-## 🤖 [WIP] Detroit Become Human - NLU
-
-A little personal project to get fun. No copyright infringment desired. The images belongs to ther ownerships. Game Detroit Become Human. This project try to implemente capabiltys of language undersntanding in the game.
-
-[![Screenshot_2020-09-05 Watson Assistant(1)](https://user-images.githubusercontent.com/12854504/92316842-282c3800-efbf-11ea-8e48-a597f64a4ee8.png)](https://github.com/mistersoftware/become_human_nlu)
 
 ## 🤖 IBM Watson cognitive assistant for health [Passing]
 
