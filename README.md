@@ -1,7 +1,3 @@
-# About me
-
-## 🧠 I'm building artificial intelligence systems that aim to perform previously impossible tasks or reach unprecedented levels of performance, designing, implementing and improving a large-scale distributed machine learning system.
-
 ## 🚀 Some languages and tools of my interest
 
 ![Imgur](https://i.imgur.com/3jPh6DS.png)
