@@ -12,6 +12,4 @@
 
 [![resize-aritmetica](https://user-images.githubusercontent.com/12854504/87575567-b8bc5b00-c695-11ea-990c-c378bc548a0b.gif)](https://codepen.io/oiio/full/QWwMRPM)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistersoftware&show_icons=true)  
-
 [![riemann](https://static.platzi.com/media/user_upload/rect8756-943a5777-998b-43c5-8204-51f471acf173.jpg)](https://drive.google.com/file/d/1ynWmR2qtwDThAxuKcdSE732d7X8Y76G8/view?usp=sharing)
